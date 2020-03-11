@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/Users/user/Desktop/TestNG_FRAMEWORK/src/test/java/githubTests">
+    <test verbose="2" preserve-order="true" name="/Users/user/Desktop/Task/src/test/java/githubTests">
         <classes>
-            <class name="githubTests.TC001"></class>
-            <class name="githubTests.TC002"></class>
-            <class name="githubTests.TC003"></class>
-            <class name="githubTests.TC004"></class>
-            <class name="githubTests.TC005"></class>
-            <class name="githubTests.TC006"></class>
-            <class name="githubTests.TC007"></class>
-            <class name="githubTests.TC008"></class>
+            <class name="githubTests.Test1"></class>
+            <class name="githubTests.Test2"></class>
+            <class name="githubTests.Test3"></class>
+            <class name="githubTests.Test4"></class>
+            <class name="githubTests.Test5"></class>
+            <class name="githubTests.Test6"></class>
+            <class name="githubTests.Test7"></class>
+            <class name="githubTests.Test8"></class>
         </classes>
     </test>
 </suite>

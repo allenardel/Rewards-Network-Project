@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-10T21:30:07 CDT" name="Command line suite" finished-at="2020-03-10T21:30:14 CDT" duration-ms="6597">
+    <groups>
+    </groups>
+    <test started-at="2020-03-10T21:30:07 CDT" name="Command line test" finished-at="2020-03-10T21:30:14 CDT" duration-ms="6597">
+      <class name="githubTests.Test1">
+        <test-method signature="verifyName1()[pri:0, instance:githubTests.Test1@72a7c7e0]" started-at="2020-03-10T21:30:13 CDT" name="verifyName1" finished-at="2020-03-10T21:30:14 CDT" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName1 -->
+      </class> <!-- githubTests.Test1 -->
+      <class name="githubTests.Test5">
+        <test-method signature="verifyName5()[pri:0, instance:githubTests.Test5@703580bf]" started-at="2020-03-10T21:30:11 CDT" name="verifyName5" finished-at="2020-03-10T21:30:12 CDT" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName5 -->
+      </class> <!-- githubTests.Test5 -->
+      <class name="githubTests.Test4">
+        <test-method signature="verifyName4()[pri:0, instance:githubTests.Test4@470f1802]" started-at="2020-03-10T21:30:10 CDT" name="verifyName4" finished-at="2020-03-10T21:30:10 CDT" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName4 -->
+      </class> <!-- githubTests.Test4 -->
+      <class name="githubTests.Test3">
+        <test-method signature="verifyName3()[pri:0, instance:githubTests.Test3@1622f1b]" started-at="2020-03-10T21:30:12 CDT" name="verifyName3" finished-at="2020-03-10T21:30:13 CDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName3 -->
+      </class> <!-- githubTests.Test3 -->
+      <class name="githubTests.Test2">
+        <test-method signature="verifyName2()[pri:0, instance:githubTests.Test2@63021689]" started-at="2020-03-10T21:30:10 CDT" name="verifyName2" finished-at="2020-03-10T21:30:11 CDT" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName2 -->
+      </class> <!-- githubTests.Test2 -->
+      <class name="githubTests.Test8">
+        <test-method signature="verifyName8()[pri:0, instance:githubTests.Test8@cd3fee8]" started-at="2020-03-10T21:30:07 CDT" name="verifyName8" finished-at="2020-03-10T21:30:09 CDT" duration-ms="2263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName8 -->
+      </class> <!-- githubTests.Test8 -->
+      <class name="githubTests.Test7">
+        <test-method signature="verifyName7()[pri:0, instance:githubTests.Test7@3e92efc3]" started-at="2020-03-10T21:30:12 CDT" name="verifyName7" finished-at="2020-03-10T21:30:12 CDT" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName7 -->
+      </class> <!-- githubTests.Test7 -->
+      <class name="githubTests.Test6">
+        <test-method signature="verifyName6()[pri:0, instance:githubTests.Test6@3e2e18f2]" started-at="2020-03-10T21:30:09 CDT" name="verifyName6" finished-at="2020-03-10T21:30:10 CDT" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName6 -->
+      </class> <!-- githubTests.Test6 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
